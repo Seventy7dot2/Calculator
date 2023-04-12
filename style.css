@@ -1,0 +1,32 @@
+body{
+    display: flex;
+    height: 100vh;
+}
+button{
+    height: 81px;
+    width: 97px;
+}
+input{
+    font-size: 50px;
+    height:81px ;
+    width:400px; 
+}
+.box{
+    /* display: flex;
+    flex-direction: row; */
+    margin: auto;
+    height: 500px;
+    width: 400px;
+}    
+.ops{
+    display: flex;
+    flex-direction: column;
+}
+#equals{
+    background-color: orange;
+    color: white;
+}
+.bg-red{
+    background-color: red;
+    color: white;
+}
